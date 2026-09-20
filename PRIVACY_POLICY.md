@@ -102,7 +102,7 @@ Nous pouvons mettre à jour cette politique. La date de dernière mise à jour f
 
 ### 13. Contact
 
-gabsamw@oxyde-bots.xyz · [Serveur de support](https://discord.gg/jshATDPGar) · <https://check-pub.xyz>
+gabsamw@oxyde-bots.xyz · [Serveur de support](https://discord.gg/jshATDPGar) · <https://checkpub.oxyde-bots.xyz>
 
 ---
 
@@ -110,9 +110,9 @@ gabsamw@oxyde-bots.xyz · [Serveur de support](https://discord.gg/jshATDPGar) ·
 
 ### 1. Who we are
 
-**Check Pub** (the "Bot") is a Discord bot that verifies and manages advertisements between servers. It is developed and operated by **Oxyde Bots** ("we", "us") from Belgium.
+**Check Pub** (the "Bot") is a Discord bot that verifies and manages advertisements between servers. It is developed and operated by **Check Pub Owner** ("we", "us") from Belgium.
 
-- Website: <https://check-pub.xyz>
+- Website: <https://checkpub.oxyde-bots.xyz>
 - Support server: <https://discord.gg/jshATDPGar>
 - Contact: gabsamw@oxyde-bots.xyz
 
@@ -202,4 +202,4 @@ We may update this policy. The last-updated date is shown at the top; significan
 
 ### 13. Contact
 
-gabsamw@oxyde-bots.xyz · [Support server](https://discord.gg/jshATDPGar) · <https://check-pub.xyz>
+gabsamw@oxyde-bots.xyz · [Support server](https://discord.gg/jshATDPGar) · <https://checkpub.oxyde-bots.xyz>
